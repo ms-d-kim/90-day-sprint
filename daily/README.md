@@ -1,4 +1,4 @@
-Daily Projects — 90-Day Learning Sprint
+# Daily Projects — 90-Day Learning Sprint
 
 This directory contains my 90-day journey building deep intuition in:
 	•	Systems & Linux
