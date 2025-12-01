@@ -1,0 +1,5 @@
+INFO: service starting
+INFO: handling request id=1
+ERROR: failed to handle request id=2
+INFO: service shutting down
+INFO: another request
